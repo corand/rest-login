@@ -1,0 +1,25 @@
+/var/www/rest-login/rest-login/platforms/android/ant-build/RestLogin.ap_ \
+ : /var/www/rest-login/rest-login/platforms/android/res/drawable/icon.png \
+/var/www/rest-login/rest-login/platforms/android/res/drawable-hdpi/icon.png \
+/var/www/rest-login/rest-login/platforms/android/res/drawable-ldpi/icon.png \
+/var/www/rest-login/rest-login/platforms/android/res/drawable-xhdpi/icon.png \
+/var/www/rest-login/rest-login/platforms/android/res/drawable-mdpi/icon.png \
+/var/www/rest-login/rest-login/platforms/android/res/values/strings.xml \
+/var/www/rest-login/rest-login/platforms/android/res/xml/config.xml \
+/var/www/rest-login/rest-login/platforms/android/ant-build/res/drawable/icon.png \
+/var/www/rest-login/rest-login/platforms/android/ant-build/res/drawable-hdpi/icon.png \
+/var/www/rest-login/rest-login/platforms/android/ant-build/res/drawable-ldpi/icon.png \
+/var/www/rest-login/rest-login/platforms/android/ant-build/res/drawable-xhdpi/icon.png \
+/var/www/rest-login/rest-login/platforms/android/ant-build/res/drawable-mdpi/icon.png \
+/var/www/rest-login/rest-login/platforms/android/assets/_where-is-www.txt \
+/var/www/rest-login/rest-login/platforms/android/assets/www \
+/var/www/rest-login/rest-login/platforms/android/assets/www/img \
+/var/www/rest-login/rest-login/platforms/android/assets/www/cordova_plugins.js \
+/var/www/rest-login/rest-login/platforms/android/assets/www/index.html \
+/var/www/rest-login/rest-login/platforms/android/assets/www/css \
+/var/www/rest-login/rest-login/platforms/android/assets/www/cordova.js \
+/var/www/rest-login/rest-login/platforms/android/assets/www/js \
+/var/www/rest-login/rest-login/platforms/android/assets/www/img/logo.png \
+/var/www/rest-login/rest-login/platforms/android/assets/www/css/index.css \
+/var/www/rest-login/rest-login/platforms/android/assets/www/js/index.js \
+/var/www/rest-login/rest-login/platforms/android/ant-build/AndroidManifest.xml \
